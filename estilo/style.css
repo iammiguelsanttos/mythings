@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+
+body{margin-top:0px;font-family: 'Roboto', san-serif; font-size:18px;}
+
+table{font-weight:bold;text-align:center;width:400px; border-collapse:collapse;margin-left:auto;margin-right:auto;margin-top:5%;}
+
+td{border:1px solid #000; padding:10px;}
+
+.scorpion{width:60px; height:60px;}
+
+.guineapig{width:60px; height:60px;}
+
+.bettafish{width:60px; height:60px;}
+
+.horse{width:60px; height:60px;}
+
+.spider{width:60px; height:60px;}
+
+.iguana{width:60px; height:60px;}
+
+.snake{width:60px; height:60px;}
+
+.canary{width:60px; height:60px;}
+
+.dog{width:60px; height:60px;}
+
+.cat{width:60px; height:60px;}
+
+.parrot{width:60px; height:60px;}
+
+.rabbit{width:40px; height:60px;}
+
+.hamster{width:65px; height:60px;}
+
+.turtle{height:50px;width:65px;}
+
+.goldfish{height:60px;width:90px;}
+
+.mouse{height:60px;width:40px;}
+
+a{text-decoration:none;}
+
+.dog:hover{transition:2s;background:orange;border-radius:100px;}
+
+.cat:hover{transition:2s;background:orange;border-radius:100px;}
+
+.rabbit:hover{transition:2s;background:orange;border-radius:100px;}
+
+.hamster:hover{transition:2s;background:orange;border-radius:100px;}
+
+.parrot:hover{transition:2s;background:orange;border-radius:100px;}
+
+.goldfish:hover{transition:2s;background:orange;border-radius:100px;}
+
+.snake:hover{transition:2s;background:orange;border-radius:100px;}
+
+.turtle:hover{transition:2s;background:orange;border-radius:100px;}
+
+.mouse:hover{transition:2s;background:orange;border-radius:100px;}
+
+.canary:hover{transition:2s;background:orange;border-radius:100px;}
+
+.spider:hover{transition:2s;background:orange;border-radius:100px;}
+
+.iguana:hover{transition:2s;background:orange;border-radius:100px;}
+
+.horse:hover{transition:2s;background:orange;border-radius:100px;}
+
+.bettafish:hover{transition:2s;background:orange;border-radius:100px;}
+
+.guineapig:hover{transition:2s;background:orange;border-radius:100px;}
+
+.scorpion:hover{transition:2s;background:orange;border-radius:100px;}
+
+caption{border:1px solid #000;}
+
+caption:hover{transition:2s;background:#b665f7;color:white;}
